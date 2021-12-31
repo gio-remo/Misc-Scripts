@@ -1,5 +1,5 @@
 """""
-loud_idetail_moving_asset_images
+loud_idetail_move_asset_images
 
 ************************
 ** Here's the problem **
